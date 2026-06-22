@@ -1,6 +1,6 @@
 # Seoyoung (Selina) Park
 
-Biomedical researcher working at the intersection of medical artificial intelligence, biomedical engineering, and epidemiology.
+Biomedical researcher working at the intersection of medical artificial intelligence, biomedical engineering, and epidemiology.<br>
 I build data-driven models to better understand disease risk, patient outcomes, and clinically meaningful patterns across large-scale health datasets.
 
 ### 🔬 Current Focus
@@ -19,12 +19,12 @@ I build data-driven models to better understand disease risk, patient outcomes, 
 
 ### 🏛️ Current Affiliation
 
-**Visiting Research Scholar**
-Department of Internal Medicine
+**Visiting Research Scholar**<br>
+Department of Internal Medicine<br>
 Morsani College of Medicine, University of South Florida
 
-**Master's Researcher**
-Medical Artificial Intelligence
+**Master's Researcher**<br>
+Medical Artificial Intelligence<br>
 Kyung Hee University College of Medicine
 
 ### 📚 Research Profile
