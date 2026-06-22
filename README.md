@@ -1,7 +1,6 @@
 # Seoyoung (Selina) Park
 
-Biomedical researcher working at the intersection of **medical artificial intelligence, biomedical engineering, and epidemiology**.
-
+Biomedical researcher working at the intersection of medical artificial intelligence, biomedical engineering, and epidemiology.
 I build data-driven models to better understand disease risk, patient outcomes, and clinically meaningful patterns across large-scale health datasets.
 
 ### 🔬 Current Focus
