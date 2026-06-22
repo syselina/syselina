@@ -1,20 +1,20 @@
 # Seoyoung (Selina) Park
 
-Biomedical researcher working at the intersection of medical artificial intelligence, biomedical engineering, and epidemiology.<br>
-I build data-driven models to better understand disease risk, patient outcomes, and clinically meaningful patterns across large-scale health datasets.
+Biomedical researcher in medical AI, biomedical engineering, and epidemiology.<br>
+I develop data-driven models for disease risk, patient outcomes, and clinical prediction.
 
 ### 🔬 Current Focus
 
 * Medical artificial intelligence
 * Machine learning and deep learning for healthcare
-* Real-world evidence and epidemiology
 * Multimodal AI for precision medicine
+* Real-world evidence and epidemiology
 * Clinical prediction modeling
 
 ### 🛠️ Tools & Skills
 
 * **Programming & Statistics:** R, SAS, SQL, Python
-* **Research Methods:** Epidemiology, cohort studies, survival analysis, machine learning, deep learning, multimodal biomedical AI
+* **Research Methods:** Epidemiology, cohort studies, survival analysis, machine learning, deep learning, and multimodal biomedical AI
 * **Applications:** Disease risk estimation, clinical outcome prediction, biomedical image analysis, and precision medicine
 
 ### 🏛️ Current Affiliation
